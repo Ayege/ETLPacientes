@@ -1,0 +1,21 @@
+Nombre*Apellido*Diagnostico*Fecha*Costo*Numero*Especialidad
+Raul*Rodriguez*CEFALEA*2021-03-15*3456.9*828*Neurologia
+Francia*Martinez*TAQUICARDIA*2021-04-12*3423.56*883*Cardiologia
+Maria*Julian*TUBERCULOSIS*2021-07-12*2345.52*5461*Neumologia
+Jerry*Thomas*NEUMONIA*2021-05-2*1943.34*3143*Neumologia
+Sam*Serian*TULAREMIA*2022-02-13*1003.31*1243*Bioquimica
+Faizal*Penda*FIEBRE*2021-06-22*1500.98*2348*Oftalmologia
+Indigo*Daniels* SHIGELOSIS*2021-08-09*5001*1243*Dermatologia
+Gabriel*Adams*GRIPE*2021-09-23*1045.31*567*Traumatologia
+Mariel*Serna*SALMONELA*2021-02-11*903.98*21345*Ginecologia y obstetricia
+Cornea*Perez*SEPSIS*2021-05-10*903.98*21345*Oftalmologia
+Santiago*Martinez*TIFOIDEA*2021-11-16*903.98*245*Cardiologia
+Paula*Hernandez*CEFALEA*2022-02-24*4563*98345*Bioquimica 
+Geona*Rosado*ENTERITIS*2021-09-23*9038*809*Dermatologia
+Naritna*Yeguer*SHIGELOSIS*2021-21-18*5674.18*45635*Bioquimica 
+Marcos*Zari*INFECCION*2021-01-15*2343.5*435*Neurologia
+Jose*Feldana*OTITIS*2022-02-19*998*6345*Oftalmologia
+Gertrudis*Toledo*GRIPE*2021-07-21*3498*4563*Cardiologia
+Yael*Perdenca*NEUMONIA*2021-09-20*324.98*3456*Traumatologia
+Yone*Shen*CEFALEA*2021-03-21*93298*45*Dermatologia
+Tarniel*Chin*VIH*2021-07-20*1234.5*3456*Bioquimica 

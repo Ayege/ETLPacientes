@@ -1,0 +1,21 @@
+Nombre|Apellido|Diagnostico|Fecha|Costo|Sexo|Numero|Especialidad|Edad|Provincia
+Raul|Rodriguez|CEFALEA|3/15/2021|3456.9|M|828|Neurologia|93|Barahona
+Francia|Martinez|TAQUICARDIA|4/12/2021|3423.56|F|883|Cardiologia|61|Azua
+Maria|Julian|TUBERCULOSIS|7/12/2021|2345.52|F|5461|Neumologia|93|Santo Domingo
+Jerry|Thomas|NEUMONIA|5/2/2021|1943.34|M|3143|Neumologia|32|Barahora
+Sam|Serian|TULAREMIA|2/13/2022|1003.31|M|1243|Bioquimica|34|Azua
+Faizal|Penda|FIEBRE|6/22/2021|1500.98|M|2348|Oftalmologia|79|Santo Domingo
+Indigo|Daniels| SHIGELOSIS|8/9/2021|5001|M|1243|Dermatologia|54|San Juan
+Gabriel|Adams|GRIPE|9/23/2021|1045.31|M|567|Traumatologia|80|San Cristobal
+Mariel|Serna|SALMONELA|2/11/2021|5001|F|21345|Ginecologia y obstetricia|91|Distrito Nacional
+Cornea|Perez|SEPSIS|5/10/2021|1000|F|21345|Oftalmologia|25|La Romana
+Santiago|Martinez|TIFOIDEA|11/16/2021|500|M|245|Cardiologia|10|La Vega
+Paula|Hernandez|CEFALEA|2/24/2022|4563|F|98345|Bioquimica|95|Hermanas Mirabal
+Geona|Rosado|ENTERITIS|9/23/2021|9038|F|809|Dermatologia|68|Perdernales
+Naritna|Yeguer|SHIGELOSIS|2/24/2022|5674.18|F|45635|Bioquimica|55|Barahora
+Marcos|Zari|INFECCION|1/15/2021|2343.5|M|435|Neurologia|14|Azua
+Jose|Feldana|OTITIS|2/19/2022|998|M|6345|Oftalmologia|93|Santo Domingo
+Gertrudis|Toledo|GRIPE|7/21/2021|3498|F|4563|Cardiologia|39|San Juan
+Yael|Perdenca|NEUMONIA|9/20/2021|324.98|F|3456|Traumatologia|65|San Cristobal
+Yone|Shen|CEFALEA|3/21/2021|500|M|45|Dermatologia|79|Distrito Nacional
+Tarniel|Chin|VIH|7/20/2021|1234.5|M|3456|Bioquimica|44|La Romana

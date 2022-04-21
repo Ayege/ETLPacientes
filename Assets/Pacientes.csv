@@ -1,0 +1,21 @@
+Numero,Nombre,Apellido,Diagnostico,Especialidad,Fecha,Costo 
+2471,Zola,Davida,TULAREMIA GASTROINTESTINAL,Bioquimica ,3/9/2021,9162.67
+229,Aretha,Marleen,TULAREMIA GENERALIZADA,Oftalmologia,3/17/2021,2026.96
+16,Sharla,Steph,OTRAS FORMAS DE TULAREMIA,Endocrinologia y nutricion,7/6/2021,9542.65
+1,Gresham,Timotha,"TULAREMIA, NO ESPECIFICADA",Dermatologia,7/7/2021,8906.99
+87,Hayleigh,Rosalind,CARBUNCO CUTANEO,Neurologia,7/16/2021,9436.84
+433,Mitchell,Cassandra,CARBUNCO PULMONAR,Bioquimica,9/2/2021,5795.35
+513,Reginald,Katharine,CARBUNCO GASTROINTESTINAL,Bioquimica,10/5/2021,8041.21
+847,Briony,Chrissie,CARBUNCO SEPTICO,Dermatologia,10/22/2021,6824.72
+431,Sheryl,Porter,OTRAS FORMAS DE CARBUNCO,Neurologia,2/1/2022,6451.74
+994,Jaylene,Regina,"CARBUNCO, NO ESPECIFICADO",Traumatologia,2/8/2022,4233.4
+89,Arlo,Lionel,BRUCELOSIS DEBIDA A BRUCELLA MELITENSIS,Neumologia,4/6/2022,2227.5
+655,Kit,Star,BRUCELOSIS DEBIDA A BRUCELLA ABORTUS,Oftalmologia,6/14/2022,564.12
+831,Montague,Evangeline,BRUCELOSIS DEBIDA A BRUCELLA SUIS,Endocrinologia y nutricion,8/2/2022,6748.24
+427,Kimberlyn,Hendrix,BRUCELOSIS DEBIDA A BRUCELLA CANIS,Neumologia,8/18/2022,3782.19
+415,Warren,Coleen,OTRAS BRUCELOSIS,Oftalmologia,10/3/2022,8441.96
+627,Blythe,Mabel,"BRUCELOSIS, NO ESPECIFICADA",Endocrinologia y nutricion,11/10/2022,1152.8
+903,Breanna,Lally,MUERMO,Ginecologia y obstetricia,11/11/2022,3435.28
+509,Moriah,Symphony,MELIOIDOSIS AGUDA Y FULMINANTE,Oftalmologia,12/5/2022,6510.43
+230,Delilah,Harleigh,MELIOIDOSIS SUBAGUDA Y CRONICA,Endocrinologia y nutricion,12/23/2022,3916.18
+970,Radcliff,Giselle,OTRAS MELIOIDOSIS,Neumologia,12/28/2022,7713.46
